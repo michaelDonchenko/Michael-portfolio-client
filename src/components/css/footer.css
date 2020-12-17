@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.iconDiv {
+  font-size: 50px;
+  margin: 0 20px 0 20px;
+}
+
+.myIcons {
+  color: black;
+}
