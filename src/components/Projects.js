@@ -9,7 +9,8 @@ const Projects = () => {
   const projects = [
     {
       name: 'Hackr IO',
-      description: 'test',
+      description:
+        'The main functionality of this site is using AWS services. This site is like hackr.io where users can register and post programming links. The services used are SES for email confirmation, S3 for storing category images created by admin, and EC2 for hosting the website. Fully working authentication system, full admin dashboard functionality  for CRUD categories and links.',
       builtWith: 'MERN Stack (Redux) + AWS',
       img: mernAws,
       githubLink: 'https://github.com/michaelDonchenko/mern-aws-client',
